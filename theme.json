@@ -15,16 +15,16 @@
             "#b0cfd6"
         ],
         "TEXT_NORMAL": [
-            "#e01d5e"
+            "#ffe8f0"
         ],
         "TEXT_MUTED": [
-            "#80203d"
+            "#c9bbc0"
         ],
         "TEXT_DANGER": [
-            "#a3244a"
+            "#b01a47"
         ],
         "TEXT_LINK": [
-            "#6f6fd6"
+            "#d91858"
         ],
         "INTERACTIVE_NORMAL": [
             "#bad6de"
