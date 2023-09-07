@@ -15,10 +15,10 @@
             "#b0cfd6"
         ],
         "TEXT_NORMAL": [
-            "#b81159"
+            "#e01d5e"
         ],
         "TEXT_MUTED": [
-            "#663c49"
+            "#80203d"
         ],
         "TEXT_DANGER": [
             "#a3244a"
@@ -102,7 +102,7 @@
             "#c1dfe6"
         ],
         "CHAT_BACKGROUND": [
-            "#117cba"
+            "#0d5580"
         ]
     },
     "rawColors": {
@@ -135,7 +135,7 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://i.imgur.com/lgn1kEz.png",
+    "url": "https://i.imgur.com/Ya9Z9h1.png",
     "alpha": 0.48
   },
     "spec": 2
