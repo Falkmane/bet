@@ -15,16 +15,16 @@
             "#b0cfd6"
         ],
         "TEXT_NORMAL": [
-            "#d8edf2"
+            "#eb7391"
         ],
         "TEXT_MUTED": [
-            "#b0cfd6"
+            "#663c49"
         ],
         "TEXT_DANGER": [
-            "#3fdaeb"
+            "#a3244a"
         ],
         "TEXT_LINK": [
-            "#8ce8ff"
+            "#6f6fd6"
         ],
         "INTERACTIVE_NORMAL": [
             "#bad6de"
@@ -39,7 +39,7 @@
             "#97b5bd"
         ],
         "BACKGROUND_PRIMARY": [
-            "#11abbf"
+            "#117cba"
         ],
         "BACKGROUND_SECONDARY": [
             "#14a0e0"
@@ -48,7 +48,7 @@
             "#14a0e0"
         ],
         "BACKGROUND_TERTIARY": [
-            "#11abbf"
+            "#117cba"
         ],
         "BACKGROUND_ACCENT": [
             "#6bcde8"
@@ -57,7 +57,7 @@
             "#14a0e045"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#11abbf"
+            "#117cba"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#14a0e0"
@@ -66,10 +66,10 @@
             "#14a0e0"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#11abbf"
+            "#117cba"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#11abbf"
+            "#117cba"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#62c1de"
@@ -84,13 +84,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#11abbf"
+            "#117cba"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#11abbf"
+            "#117cba"
         ],
         "KEYBOARD": [
-            "#11abbf"
+            "#117cba"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#d7f3fc"
@@ -102,7 +102,7 @@
             "#c1dfe6"
         ],
         "CHAT_BACKGROUND": [
-            "#11abbf"
+            "#117cba"
         ]
     },
     "rawColors": {
