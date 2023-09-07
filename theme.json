@@ -12,13 +12,13 @@
             "#d8edf2"
         ],
         "HEADER_SECONDARY": [
-            "#b0cfd6"
+            "#dfedf0"
         ],
         "TEXT_NORMAL": [
-            "#ffe8f0"
+            "#ffdee9"
         ],
         "TEXT_MUTED": [
-            "#c9bbc0"
+            "#b37b8f"
         ],
         "TEXT_DANGER": [
             "#b01a47"
@@ -27,7 +27,7 @@
             "#d91858"
         ],
         "INTERACTIVE_NORMAL": [
-            "#bad6de"
+            "#d3e9f0"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
@@ -39,58 +39,58 @@
             "#97b5bd"
         ],
         "BACKGROUND_PRIMARY": [
-            "#117cba"
+            "#0d6191"
         ],
         "BACKGROUND_SECONDARY": [
-            "#14a0e0"
+            "#1389bf"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#14a0e0"
+            "#1389bf"
         ],
         "BACKGROUND_TERTIARY": [
-            "#117cba"
+            "#0d6191"
         ],
         "BACKGROUND_ACCENT": [
-            "#6bcde8"
+            "#6bc5e8"
         ],
         "BACKGROUND_FLOATING": [
             "#35b7f2"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#117cba"
+            "#0d6191"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#14a0e0"
+            "#1389bf"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#14a0e0"
+            "#1389bf"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#117cba"
+            "#0d6191"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#117cba"
+            "#0d6191"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#62c1de"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#14a0e0"
+            "#1389bf"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#14a0e0"
+            "#1389bf"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#117cba"
+            "#0d6191"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#117cba"
+            "#0d6191"
         ],
         "KEYBOARD": [
-            "#117cba"
+            "#0d6191"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#d7f3fc"
@@ -123,7 +123,7 @@
         "BRAND_260": "#3ecff7",
         "BRAND_360": "#5fc2e3",
         "BRAND_500": "#3ecff7",
-        "BRAND_560": "#428ba1",
+        "BRAND_560": "#50acd4",
         "GREEN_360": "#3ecff7",
         "RED_400": "#3ecff7",
         "ORANGE_345": "#3ecff7",
